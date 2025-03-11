@@ -31,8 +31,8 @@ segmentation model.
 <img src="https://github.com/user-attachments/assets/7b6e065e-13a3-4e3c-9ccc-1014e490cb45" alt="Screenshot 2024-11-26 125925" width="300" />
 
 ## Example output:
-<img src="https://github.com/user-attachments/assets/acc5f465-94ca-4d42-8026-704318a1d53e" alt="Screenshot 2025-03-10 214648" width="300" />
-<img src="https://github.com/user-attachments/assets/cb37f4af-d6de-4958-a3d9-b6e2e11d9f94" alt="Screenshot 2024-11-27 022742" width="300" />
+<img src="https://github.com/user-attachments/assets/acc5f465-94ca-4d42-8026-704318a1d53e" alt="Screenshot 2025-03-10 214648" width="700" />
+<img src="https://github.com/user-attachments/assets/cb37f4af-d6de-4958-a3d9-b6e2e11d9f94" alt="Screenshot 2024-11-27 022742" width="700" />
 
 ## Development Tools 
 Python, Tensorflow, Keras, MatplotLib, Jupyter Notebook
